@@ -1,0 +1,12 @@
+{
+  "name": "challenge-bs4",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "bootstrap": "v4.0.0-alpha.6"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
